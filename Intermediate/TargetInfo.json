@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Test_2d_project",
+			"Path": "C:\\Users\\Donato\\Documents\\Unreal Projects\\Test_2d_project\\Source\\Test_2d_project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Test_2d_projectEditor",
+			"Path": "C:\\Users\\Donato\\Documents\\Unreal Projects\\Test_2d_project\\Source\\Test_2d_projectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

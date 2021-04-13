@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Test_2d_project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0C77D568-869D-42D7-99B9-0071612641E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Test_2d_project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Test_2d_projectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{06A55919-5C84-42CA-8F22-719DE7696AC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Test_2d_project">
+      <UniqueIdentifier>{C0CF636A-9ECF-48A5-8892-E0738E1836EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Test_2d_project\Test_2d_project.Build.cs">
+      <Filter>Source\Test_2d_project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Test_2d_project\Test_2d_project.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test_2d_project\Test_2d_project.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test_2d_project\Test_2d_projectCharacter.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test_2d_project\Test_2d_projectCharacter.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test_2d_project\Test_2d_projectGameMode.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test_2d_project\Test_2d_projectGameMode.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Test_2d_project\Custom_2d_character.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test_2d_project\Grenade.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test_2d_project\EnemyPawn.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test_2d_project\TestGameState.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test_2d_project\HealthComponent.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test_2d_project\Enemy_AIController.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test_2d_project\blackboard_keys.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Test_2d_project\FindRandomLocation.h">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Test_2d_project\Custom_2d_character.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test_2d_project\Grenade.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test_2d_project\EnemyPawn.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test_2d_project\TestGameState.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test_2d_project\HealthComponent.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test_2d_project\Enemy_AIController.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Test_2d_project\FindRandomLocation.cpp">
+      <Filter>Source\Test_2d_project</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Test_2d_project\Public">
+      <UniqueIdentifier>{98b1ba18-f261-440a-9c38-16767fbf5dcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Test_2d_project\Private">
+      <UniqueIdentifier>{ed7d2d27-12f9-4b7b-b65d-b94407d9090a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

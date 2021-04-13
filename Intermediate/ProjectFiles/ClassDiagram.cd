@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ACustom_2d_character">
+    <Position X="2.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAEAIACBBgAAAEAAAAACAAIACAAAQAAAAAAgQAQ=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\Custom_2d_character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AEnemyPawn">
+    <Position X="7" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAABAAAAAAAAAAAAAAAAAAAAQAAAAAAgQEA=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\EnemyPawn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AEnemy_AIController">
+    <Position X="9.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAABAAAAAACAAAAAAAAAAAABAAwAAA=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\Enemy_AIController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UFindRandomLocation">
+    <Position X="11.25" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\FindRandomLocation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AGrenade">
+    <Position X="4.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAQAABAAAAgQBE=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\Grenade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UHealthComponent">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAgAAA=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\HealthComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATestGameState" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\TestGameState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATest_2d_projectCharacter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAEAIACBAgAAAEAAAAACAQIACAAAQAAABAAAQAA=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\Test_2d_projectCharacter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATest_2d_projectGameMode" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project\Test_2d_projectGameMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

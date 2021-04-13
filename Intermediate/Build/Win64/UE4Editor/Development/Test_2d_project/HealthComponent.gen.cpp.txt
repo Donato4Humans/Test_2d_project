@@ -1,0 +1,5 @@
+C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Definitions.Test_2d_project.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Source\Test_2d_project/HealthComponent.h
+c:\users\donato\documents\unreal projects\test_2d_project\intermediate\build\win64\ue4editor\inc\test_2d_project\HealthComponent.generated.h

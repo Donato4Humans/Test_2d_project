@@ -1,0 +1,9 @@
+C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Definitions.Test_2d_project.h
+c:\users\donato\documents\unreal projects\test_2d_project\source\test_2d_project\TestGameState.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Inc\Test_2d_project\TestGameState.generated.h

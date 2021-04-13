@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Donato\\Documents\\Unreal Projects\\Test_2d_project\\Source\\Test_2d_project\\Test_2d_project.Build.cs",
+		"C:\\Users\\Donato\\Documents\\Unreal Projects\\Test_2d_project\\Source\\Test_2d_project.Target.cs",
+		"C:\\Users\\Donato\\Documents\\Unreal Projects\\Test_2d_project\\Source\\Test_2d_projectEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}

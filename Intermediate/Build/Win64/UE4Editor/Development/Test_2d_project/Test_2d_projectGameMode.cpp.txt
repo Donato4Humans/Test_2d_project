@@ -1,0 +1,15 @@
+C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Definitions.Test_2d_project.h
+c:\users\donato\documents\unreal projects\test_2d_project\source\test_2d_project\Test_2d_projectGameMode.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Inc\Test_2d_project\Test_2d_projectGameMode.generated.h
+c:\users\donato\documents\unreal projects\test_2d_project\source\test_2d_project\Custom_2d_character.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\2D\Paper2D\Source\Paper2D\Classes\PaperCharacter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4Editor\Inc\Paper2D\PaperCharacter.generated.h
+C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Inc\Test_2d_project\Custom_2d_character.generated.h

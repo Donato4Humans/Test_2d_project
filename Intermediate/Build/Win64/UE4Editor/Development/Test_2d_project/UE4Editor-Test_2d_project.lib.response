@@ -1,0 +1,32 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Test_2d_project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\Test_2d_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Custom_2d_character.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\EnemyPawn.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Enemy_AIController.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\FindRandomLocation.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Grenade.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\HealthComponent.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\TestGameState.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Test_2d_project.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Test_2d_projectCharacter.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Test_2d_projectGameMode.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Custom_2d_character.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\EnemyPawn.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Enemy_AIController.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\FindRandomLocation.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Grenade.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\HealthComponent.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\TestGameState.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Test_2d_project.init.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Test_2d_projectCharacter.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Test_2d_projectGameMode.gen.cpp.obj"
+"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\Default.rc2.res"
+/OUT:"C:\Users\Donato\Documents\Unreal Projects\Test_2d_project\Intermediate\Build\Win64\UE4Editor\Development\Test_2d_project\UE4Editor-Test_2d_project.lib"
+/INCLUDE:IMPLEMENT_MODULE_Test_2d_project
